@@ -1,0 +1,4 @@
+com\bp\led\am\asset\controller\HelloWorldController.class
+com\bp\led\am\asset\controller\welcome.class
+com\bp\led\am\asset\aspect\AspectLogging.class
+com\bp\led\am\asset\controller\ExceptionControllerAop.class
