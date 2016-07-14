@@ -6,6 +6,12 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
+        <dependent-module archiveName="BP_Led_AM_Asset-service-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/BP_Led_AM_Asset-service/BP_Led_AM_Asset-service">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="BP_Led_AM_Asset-data-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/BP_Led_AM_Asset-data/BP_Led_AM_Asset-data">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="java-output-path" value="/BP_Led_AM_Asset-web/target/classes"/>
         <property name="context-root" value="BP_Led_AM_Asset-web"/>
     </wb-module>

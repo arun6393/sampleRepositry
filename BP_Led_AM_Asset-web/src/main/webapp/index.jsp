@@ -1,5 +1,5 @@
 <head>
-    <title>Eandis Capture Module</title>
+    <title></title>
 </head>
 <body>
    <%--  <jsp:forward page="welcome"></jsp:forward> --%>

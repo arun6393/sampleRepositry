@@ -18,13 +18,13 @@ public class welcome {
         return "tiles";
     }
     
-    @RequestMapping("/helloPage")
-    public String callHelloBody() throws Exception
+/*    @RequestMapping("/helloPage")
+    public String callHelloBody() 
     {
         if(true)
         {
         throw new Exception();
         }
         return "helloPage";
-    }
+    }*/
 }

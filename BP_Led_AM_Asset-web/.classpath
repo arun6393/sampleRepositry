@@ -29,5 +29,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/BP_Led_AM_Asset-service"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
