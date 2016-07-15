@@ -13,13 +13,13 @@
 	</parent>
 
 
-	<!-- <dependencies>
+	<dependencies>
 		<dependency>
 			<groupId>BP_Led_AM_Asset</groupId>
 			<artifactId>BP_Led_AM_Asset-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-	</dependencies> -->
+	</dependencies> 
 
 
 </project>
